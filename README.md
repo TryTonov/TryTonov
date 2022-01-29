@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TryTonov
+- 👀 I’m interested in GLua, Phyton, JS
+- 📫 How to reach me t.me/trytonov ; Discord: trytonov#5623
